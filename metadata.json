@@ -1,0 +1,5 @@
+{
+  "name": "Analisi Mancato Introito TPL",
+  "description": "Un'applicazione per rilevare il mancato introito relativo alla bigliettazione del trasporto pubblico locale e alla sosta a pagamento, a seguito dell'istituzione di un parcheggio d'interscambio gratuito.",
+  "requestFramePermissions": []
+}
